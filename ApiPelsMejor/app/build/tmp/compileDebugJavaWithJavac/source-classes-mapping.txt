@@ -1,0 +1,20 @@
+com/matiasbesmedrisnikylukaportnoi/dai/apipel/AgregarCeluFragment.java
+ com.matiasbesmedrisnikylukaportnoi.dai.apipel.AgregarCeluFragment
+com/matiasbesmedrisnikylukaportnoi/dai/apipel/StartActivity.java
+ com.matiasbesmedrisnikylukaportnoi.dai.apipel.StartActivity
+ com.matiasbesmedrisnikylukaportnoi.dai.apipel.StartActivity$1
+com/matiasbesmedrisnikylukaportnoi/dai/apipel/utils/StreamHelper.java
+ com.matiasbesmedrisnikylukaportnoi.dai.apipel.utils.StreamHelper
+com/matiasbesmedrisnikylukaportnoi/dai/apipel/ListaFragment.java
+ com.matiasbesmedrisnikylukaportnoi.dai.apipel.ListaFragment
+ com.matiasbesmedrisnikylukaportnoi.dai.apipel.ListaFragment$1
+com/matiasbesmedrisnikylukaportnoi/dai/apipel/Celular.java
+ com.matiasbesmedrisnikylukaportnoi.dai.apipel.Celular
+com/matiasbesmedrisnikylukaportnoi/dai/apipel/PeliculasArrayAdapter.java
+ com.matiasbesmedrisnikylukaportnoi.dai.apipel.PeliculasArrayAdapter
+com/matiasbesmedrisnikylukaportnoi/dai/apipel/ListaCelularesFragment.java
+ com.matiasbesmedrisnikylukaportnoi.dai.apipel.ListaCelularesFragment
+com/matiasbesmedrisnikylukaportnoi/dai/apipel/MainActivity.java
+ com.matiasbesmedrisnikylukaportnoi.dai.apipel.MainActivity
+com/matiasbesmedrisnikylukaportnoi/dai/apipel/BuildConfig.java
+ com.matiasbesmedrisnikylukaportnoi.dai.apipel.BuildConfig
