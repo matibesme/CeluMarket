@@ -63,9 +63,7 @@ public class ListaFragment extends Fragment {
 
 
     public void SetearListeners() {
-
-
-        View.OnClickListener btnButton_click = new View.OnClickListener() {
+        button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 MainActivity actividadContenedora;
@@ -73,7 +71,8 @@ public class ListaFragment extends Fragment {
                 actividadContenedora.setFragmentListaCelulares();
 
             }
-        };
+        });
+
     }
 
 
