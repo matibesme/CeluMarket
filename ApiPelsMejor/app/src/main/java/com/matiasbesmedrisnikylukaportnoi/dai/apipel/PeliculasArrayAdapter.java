@@ -15,14 +15,15 @@ import androidx.annotation.Nullable;
 import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;
+import java.util.List;
 
 public class PeliculasArrayAdapter extends ArrayAdapter<Celular> {
-    ArrayList<Celular> listaPelis;
+    List<Celular> listaPelis;
     Context mCtx;
     private int resource;
 
 
-    public PeliculasArrayAdapter(Context mCtx, int resource, ArrayList<Celular> listaPelis){
+    public PeliculasArrayAdapter(Context mCtx, int resource, List<Celular> listaPelis){
         super(mCtx,resource,listaPelis);
         this.mCtx=mCtx;
         this.resource=resource;

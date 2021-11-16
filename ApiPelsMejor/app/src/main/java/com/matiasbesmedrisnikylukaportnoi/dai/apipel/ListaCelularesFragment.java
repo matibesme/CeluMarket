@@ -11,13 +11,20 @@ import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
+import com.google.gson.Gson;
+
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 
 
 public class ListaCelularesFragment extends Fragment {
 
     View layoutRoot;
-ListView listaPelisCelus;
+    ListView listaPelisCelus;
+    Celular[] resultado;
+    ArrayAdapter<Celular> adapter;
+
     public ListaCelularesFragment() {
         // Required empty public constructor
     }
@@ -41,14 +48,11 @@ ListView listaPelisCelus;
     }
 
     private void parseandoLista() {
-        ArrayList<Celular> datosArrayList;
-        ArrayAdapter<Celular> adapter;
 
 
-        datosArrayList=new ArrayList<>(
-        );
-
-        adapter=new PeliculasArrayAdapter(getContext(), R.layout.my_list_item, datosArrayList);
+        Gson miGson = new Gson();
+        resultado = miGson.fromJson(s,Celular[].class);
+        adapter = new PeliculasArrayAdapter(getActivity(),R.layout.my_list_item, Arrays.asList(resultado.clone()));
         listaPelisCelus.setAdapter(adapter);
 
 

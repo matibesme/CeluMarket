@@ -61,13 +61,13 @@
 36-->C:\Users\45753713\Documents\GitHub\CeluMarket\ApiPelsMejor\app\src\main\AndroidManifest.xml:26:13-54
 37
 38        <provider
-38-->[com.squareup.picasso:picasso:2.71828] C:\Users\45753713\.gradle\caches\transforms-2\files-2.1\62f0fd44cc60e65ba6dbed93cba45666\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+38-->[com.squareup.picasso:picasso:2.71828] C:\Users\45753713\.gradle\caches\transforms-2\files-2.1\a08fcddf2733b4cea45d705c90801e57\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
 39            android:name="com.squareup.picasso.PicassoProvider"
-39-->[com.squareup.picasso:picasso:2.71828] C:\Users\45753713\.gradle\caches\transforms-2\files-2.1\62f0fd44cc60e65ba6dbed93cba45666\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+39-->[com.squareup.picasso:picasso:2.71828] C:\Users\45753713\.gradle\caches\transforms-2\files-2.1\a08fcddf2733b4cea45d705c90801e57\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
 40            android:authorities="com.matiasbesmedrisnikylukaportnoi.dai.apipel.com.squareup.picasso"
-40-->[com.squareup.picasso:picasso:2.71828] C:\Users\45753713\.gradle\caches\transforms-2\files-2.1\62f0fd44cc60e65ba6dbed93cba45666\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+40-->[com.squareup.picasso:picasso:2.71828] C:\Users\45753713\.gradle\caches\transforms-2\files-2.1\a08fcddf2733b4cea45d705c90801e57\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
 41            android:exported="false" />
-41-->[com.squareup.picasso:picasso:2.71828] C:\Users\45753713\.gradle\caches\transforms-2\files-2.1\62f0fd44cc60e65ba6dbed93cba45666\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+41-->[com.squareup.picasso:picasso:2.71828] C:\Users\45753713\.gradle\caches\transforms-2\files-2.1\a08fcddf2733b4cea45d705c90801e57\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
 42    </application>
 43
 44</manifest>
